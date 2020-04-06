@@ -4,12 +4,12 @@
         <meta charset="UTF-8"> 
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
          <link rel="stylesheet" href="stylesheet.css">
-        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="bootstrap.min.css">
         
     </head>
-    <script src="js/jquery.slim.min.js"></script> 
-  <script src="js/Untitled-1.js"></script>
-  <script src="js/bootstrap.min.js"></script>
+    <script src="jquery.slim.min.js"></script> 
+  <script src="Untitled-1.js"></script>
+  <script src="bootstrap.min.js"></script>
     
     <body onload="onloading()">
         
