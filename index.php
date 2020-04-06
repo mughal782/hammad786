@@ -124,7 +124,7 @@
                     </div>
                     <div class="col-xl-10 col-lg-10 col-md-12 col-sm-12 ml-0" style="padding-left: 0px!important;">
                                              
-                                   <ul class="flexfooter2" style="list-style-type: none;">
+                                   <ul class="flexfooter2 down" style="list-style-type: none;">
                                                 <li >
                                                     <a href="#" class="round">HOME</a>
                                                 </li>
