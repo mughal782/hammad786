@@ -1,6 +1,6 @@
 @font-face{
     font-family: OpenSansRegular;
-    src: url(fonts/OpenSans-Regular.ttf);
+    src: url(OpenSans-Regular.ttf);
 }
 body{
     font-family: "OpenSansRegular",Helvetica,Arial,sans-serif!important;
@@ -116,7 +116,7 @@ top:900px;
 .footer{
     background-image: url('bg_footer.jpg');
     padding-bottom: 10px;
-    height: 250px;
+    height: 290px;
     background-size: cover;   
     width: 100%!important;
     overflow: hidden!important;
@@ -386,7 +386,7 @@ opacity: 1;
      }
      .rens{
          position: absolute;
-         top: -230px;
+         top: -100px;
          right: 10px;
      }
      .d-flex{
@@ -399,9 +399,9 @@ opacity: 1;
          margin-top: 10px!important;
      }
      .new{
-        position: absolute;
+        position: fixed;
         top:0px;
-        left: 10px;
+        left: 0px;
         align-self: center;
         z-index: 2030;
         width: 100%;
@@ -477,6 +477,15 @@ opacity: 1;
         font-size: 16px!important;        
         font-weight: bold!important;    
     }
+    .footer .row{
+        width:94%!important;
+        margin:auto!important;
+    }
+
+
+.prd{
+    margin-top: 30px!important;
+}
 }
 @media screen and (min-width: 994px){
     
@@ -495,7 +504,8 @@ opacity: 1;
     }
     .flexnav1{
         padding-left: 0px!important;
-        margin-left: -70px!important;
+        margin-left: -60px!important;
+        /*height: 90px!important;*/
     }
 }
 @media screen and (max-width:450px){
@@ -503,3 +513,4 @@ opacity: 1;
         justify-content: center!important;
     }
 }
+/*landing page css*/
