@@ -123,8 +123,8 @@
                         <a href="#"><img src='googlestore.png' width="130px" height="60px"></a>
                     </div>
                     <div class="col-xl-10 col-lg-10 col-md-12 col-sm-12 ml-0" style="padding-left: 0px!important;">
-                                             <div class="down>
-                                   <ul class="flexfooter2 " style="list-style-type: none;">
+                                             <div class="down">
+                                   <ul class="flexfooter2" style="list-style-type: none;">
                                                 <li >
                                                     <a href="#" class="round">HOME</a>
                                                 </li>
@@ -147,7 +147,7 @@
                                                     <a href="#" class="round">SUPPORT</a>
                                                 </li>
                                             </ul>
-                                                                             </div>
+                                        </div>
                            <div class="mt-3 down">
                             <ul class="flexfooter2" style="list-style-type: none;">
                                 <li >
