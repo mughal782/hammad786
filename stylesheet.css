@@ -30,7 +30,7 @@ text-transform: capitalize;
 }
 .container2-1{
    position: relative;
-   top: 500px;
+   top: 350px;
    padding-bottom: 40px;
    width: 100%; 
    left: 0px;
@@ -125,22 +125,25 @@ top:900px;
     position: relative;
     top:200px;
 margin-right: auto;
+padding-left: 10px;
+padding-right: 10px;
 margin-left: auto;
 padding-bottom: 20px!important;
 background-color: white;
-background-color: rgba(228, 228, 245, 0.900);
+background-color: rgba(255, 255, 255, 0.007);
 border: 2px solid rgba(235, 238, 243, 0.973);
 text-align: center;
-border-radius: 4px;
+border-radius: 8px;
 z-index: 2;
 }
 .form-caption{
     font-size: 30px!important;
     color: rgba(9, 53, 119, 0.925)!important;
     padding-top: 20px;
+    font-weight: bold;
 }
 .forminputcontainer{
-    width: 80%;
+    width: 86%;
     margin-right: auto;
 margin-left: auto;
 
@@ -513,4 +516,3 @@ opacity: 1;
         justify-content: center!important;
     }
 }
-/*landing page css*/
